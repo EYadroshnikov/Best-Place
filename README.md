@@ -1,10 +1,13 @@
 <h1 align = "center">Best Place</h1>
-![bestplace](https://user-images.githubusercontent.com/77916615/178057083-aab7f382-10cb-44a1-baf2-6bc86e1532bb.png)
+
+<img src="https://user-images.githubusercontent.com/77916615/178057083-aab7f382-10cb-44a1-baf2-6bc86e1532bb.png" width="140" align="right">
 
 ## Goal of project
  + Increasing the tourist attractiveness of the city by informing users about the best urban spaces.
  + Creating a list of places that are popular with Omsk residents
 
+## Description
+This application will help city residents or tourists to choose a place for leisure. Also in the application there is a top of the most popular places in your city. You can read and leave reviews on public places.
 
 ## Features
 + Place markers
